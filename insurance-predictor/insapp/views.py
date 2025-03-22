@@ -18,3 +18,4 @@ def contact(request):
 
 def prediction(request):
     return render(request, "prediction.html")
+
